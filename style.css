@@ -155,3 +155,10 @@ h1{
 	line-height: 49px;
 }
 }
+
+@media screen and (max-width: 376px) {
+	.logo {
+    width: 45%;
+    cursor: pointer;
+}
+}
