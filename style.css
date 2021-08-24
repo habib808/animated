@@ -148,3 +148,10 @@ h1{
 	animation-delay: 7s;
 	width: 35px;
 }
+@media screen and (max-width: 376px) {
+h1{
+	font-size: 50px;
+	margin: 10px 0 30px;
+	line-height: 49px;
+}
+}
