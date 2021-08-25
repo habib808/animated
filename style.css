@@ -33,6 +33,11 @@ button{
 	cursor: pointer;
 }
 
+button:hover{
+	background: #01c170;
+	color: black;
+}
+
 .content{
 	color:#fbfcfd ;
 	position: absolute;
@@ -84,6 +89,10 @@ h1{
 	text-align: center;
 	position: absolute;
 	bottom: 30px;
+}
+.social-links img:hover, .useful-links img:hover {
+	background: #a930ff;
+	border-radius:20px;
 }
 
 .bubbles img{
